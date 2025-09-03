@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="darkblue">#18173A</color>
+    <color name="mustard">#F0C851</color>
+    <color name="navyblue">#211D50</color>
+    <color name="orange">#E79E2C</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <style name="Theme.GuessTheNumber" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="colorPrimary">@color/navyblue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>

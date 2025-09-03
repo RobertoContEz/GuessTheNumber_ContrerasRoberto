@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/layout_activity_main.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable_pattern.png.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable/pattern.png"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable_background_pattern.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable/background_pattern.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable-mdpi_ic_eyeball.png.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable-mdpi/ic_eyeball.png"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable-xxhdpi_ic_eyeball.png.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable-xxhdpi/ic_eyeball.png"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/xml_backup_rules.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable-hdpi_ic_eyeball.png.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable-hdpi/ic_eyeball.png"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-pngs-56:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable-xhdpi_ic_eyeball.png.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable-xhdpi/ic_eyeball.png"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/xml_data_extraction_rules.xml.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "contreras.roberto.guessthenumber.app-debug-60:/drawable-xxxhdpi_ic_eyeball.png.flat",
+        "source": "contreras.roberto.guessthenumber.app-main-62:/drawable-xxxhdpi/ic_eyeball.png"
+    }
+]
